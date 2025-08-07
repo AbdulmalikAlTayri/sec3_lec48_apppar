@@ -9,7 +9,7 @@ class Homepage extends StatelessWidget {
     return Scaffold(
     appBar:AppBar(
       leading:Icon(Icons.menu_book),
-      title:Text('AbdulMalik'),
+      title:Text('My friend'),
       actions:[Icon(Icons.search_rounded),
       Icon(Icons.abc_sharp)],
     ),
